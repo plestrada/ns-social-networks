@@ -25,6 +25,10 @@ In the blog post, we explore the realm of information cascades and network scien
 4. Run each cell in the notebook to generate the visualizations.
 5. Explore the visualizations and gain insights into social media dynamics through network science.
 
+## Note
+
+The Facebook dataset used in the blog post is not included in this repository due to privacy and data-sharing constraints. However, you are welcome to create your own synthetic data that replicates the structure of the Facebook DataFrame shown in the blog post. Feel free to use the provided code as a starting point for generating your own data and exploring the fascinating world of network science! 🌐📊
+
 ## Contact
 
-If you have any questions, feedback, or collaboration ideas, please feel free to reach out to me at patrishaanneestrada@gmail.com. Happy exploring! 🌐📊
+If you have any questions, feedback, or collaboration ideas, please feel free to reach out to me at patrishaanneestrada@gmail.com. 
