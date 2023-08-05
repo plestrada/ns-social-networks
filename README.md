@@ -1,7 +1,7 @@
 # Connecting the Dots: Understanding Social Media Dynamics through Network Science
 
 ## Introduction
-This repository contains the Jupyter Notebook (IPython notebook) for reproducing the visualizations presented in the blog post "Connecting the Dots: Understanding Social Media Dynamics through Network Science."
+This repository contains the Jupyter Notebook (IPython notebook) for reproducing the visualizations presented in the blog post ["Connecting the Dots: Understanding Social Media Dynamics through Network Science."](https://medium.com/@patrishaanneestrada/connecting-the-dots-understanding-social-media-dynamics-through-network-science-7e51c2ec8e6)
 
 ## About the Blog Post
 
